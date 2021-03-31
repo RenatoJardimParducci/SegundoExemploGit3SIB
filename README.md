@@ -1,1 +1,1 @@
-# SegundoExemploGit3SIB - Versão de kickoff
+# SegundoExemploGit3SIB - Versão de kickoff inicial
